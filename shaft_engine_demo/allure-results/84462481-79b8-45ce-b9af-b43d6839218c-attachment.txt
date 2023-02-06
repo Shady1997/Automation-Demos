@@ -1,0 +1,38 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.2.20210427]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[1 out of 2] test cases in the current suite
+Test Method:		[shaft_engine_demo.NewTest.addNewBusinessRule]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Video Recording - addNewBusinessRule] @12-06-2021 08:52:27.0224 AM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 2] test cases in the current suite
+Test Method:		[shaft_engine_demo.NewTest.loginToBRSubsystem]
+################################################################################################################################################
+[ReportManager] First test case to login to br subsystem @12-06-2021 08:52:27.0498 AM
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @12-06-2021 08:52:27.0514 AM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @12-06-2021 08:52:27.0603 AM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @12-06-2021 08:52:27.0604 AM
+[ReportManager] Successfully Opened Google Chrome. @12-06-2021 08:52:31.0833 AM
+[ReportManager] Target URL: [http://cqcehap001.qcenv.idemia.local/businessrules_frontend/#/app-login] @12-06-2021 08:52:31.0890 AM
+[ReportManager] Initial URL: [data:,] @12-06-2021 08:52:32.0101 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210612-085222", Target File: "\1623480760357_loginToBRSubsystem.gif"]. @12-06-2021 08:52:41.0131 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://cqcehap001.qcenv.idemia.local/businessrules_frontend/#/app-login]. @12-06-2021 08:52:42.0012 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [admin]. @12-06-2021 08:52:45.0932 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [P@ssw0rd@1]. @12-06-2021 08:52:47.0720 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [????? ????]. @12-06-2021 08:52:51.0957 AM
+[ReportManager] Successfully created attachment [Video Recording - loginToBRSubsystem] @12-06-2021 08:53:07.0014 AM
+[ReportManager] Successfully created attachment [Animated Gif - loginToBRSubsystem] @12-06-2021 08:53:07.0059 AM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @12-06-2021 08:53:12.0142 AM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.2.20210427]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

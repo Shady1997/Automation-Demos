@@ -1,0 +1,6 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 2] test cases in the current suite
+Test Method:		[shaft_engine_demo.NewTest.addNewBusinessRule]
+################################################################################################################################################
+[ReportManager] Successfully created attachment [Video Recording - addNewBusinessRule] @12-06-2021 08:52:27.0224 AM

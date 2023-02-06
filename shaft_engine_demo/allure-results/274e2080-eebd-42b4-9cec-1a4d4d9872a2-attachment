@@ -1,0 +1,4 @@
+[2021-06-12T08:52:34+0200] [SEVERE] https://www.google-analytics.com/ga.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+[2021-06-12T08:52:37+0200] [SEVERE] http://cqcehap001.qcenv.idemia.local/businessrules_crud/v1/lookup/1/get_all_ports - Failed to load resource: the server responded with a status of 403 (Forbidden)
+[2021-06-12T08:52:37+0200] [SEVERE] http://cqcehap001.qcenv.idemia.local/businessrules_frontend/main.46aa03ee0bb78f42f288.bundle.js 0:610862 "ERROR" t
+[2021-06-12T08:52:51+0200] [SEVERE] http://cqcehap001.qcenv.idemia.local/businessrules_crud/v1/business-rules/login - Failed to load resource: the server responded with a status of 401 (Unauthorized)

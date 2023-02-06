@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-08T23:08:07 EET" name="Default suite" finished-at="2021-10-08T23:09:10 EET" duration-ms="63185">
+    <groups>
+    </groups>
+    <test started-at="2021-10-08T23:08:07 EET" name="Default test" finished-at="2021-10-08T23:09:10 EET" duration-ms="63185">
+      <class name="test.main">
+        <test-method signature="testDragAndDropWithAppium()[pri:0, instance:test.main@2ef3eef9]" started-at="2021-10-08T23:08:07 EET" name="testDragAndDropWithAppium" finished-at="2021-10-08T23:08:42 EET" duration-ms="35143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDragAndDropWithAppium -->
+        <test-method signature="testScrollingWithAppium()[pri:0, instance:test.main@2ef3eef9]" started-at="2021-10-08T23:08:42 EET" name="testScrollingWithAppium" finished-at="2021-10-08T23:09:10 EET" duration-ms="27962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScrollingWithAppium -->
+      </class> <!-- test.main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
